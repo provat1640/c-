@@ -1,0 +1,1 @@
+You can run this code, input an integer, and it will tell you whether it’s even or odd. If the number is perfectly divisible by 2, it’s considered even; otherwise, it’s odd1. Alternatively, you can use the ternary operator to achieve the same result:
